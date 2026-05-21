@@ -6,7 +6,7 @@ Ce WorkSpace se base sur **ROS2 Humble** sur l'OS **Ubuntu 22.04**.
 
 Il faurt d'abord git clone le repo ROS2 via cette commande :
 ```
-git clone https://github.com/jikan-xyz/go2-ros2
+git clone https://github.com/im-jikan/go2-ros2
 ```
 
 ## 2 - Installer les Dépendances CycloneDDS
